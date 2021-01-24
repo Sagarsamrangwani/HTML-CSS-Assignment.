@@ -1,0 +1,40 @@
+p{
+    display: inline;
+    font-size: 1.2rem;
+    
+    
+}
+.by{
+    text-align: center;
+    padding: 0% 40%;
+}
+ul{
+    font-size: 1.2rem;
+}
+.index{
+    margin: 2% 50%;
+}
+h1{
+    font-size: 3rem;
+    font-family:  monospace;
+    font-weight: 3rem bold;
+}
+h2{
+    
+    text-shadow: 0px 3px 3px gray;
+}
+h3{
+    font-size: 25px;
+}
+body{
+    margin-left: 6%;
+    margin-right: 6%;
+    
+}
+.cloudnative{
+color: blue;
+}
+.c{
+    font-size: 40px ;
+    font-family: 'lucida sans';
+}
